@@ -1,2 +1,4 @@
 *.zip
 *.pth
+__pycache__/
+logs/
