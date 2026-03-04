@@ -1,1 +1,1 @@
-# Search-algorithm
+# 15 puzzle
